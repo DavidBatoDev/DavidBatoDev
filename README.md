@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer | IoT & AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/cute-chico-typing-pc-keyboard-q1bagbkhijzpv52g.gif" width="100px" style="border-radius: 100px;">
+  <img src="https://gifdb.com/images/high/cute-chico-typing-pc-keyboard-q1bagbkhijzpv52g.gif" width="200px" style="border-radius: 100px;">
 </p>
 
 <p align="center">
