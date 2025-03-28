@@ -9,6 +9,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+IoT+Enthusiast+%7C+AI+Learner;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
+## 📌 About Me  
+I'm a **passionate software developer** with a strong interest in **IoT, AI, and Cloud Technologies**. I love solving real-world problems through technology and continuously expanding my skill set.  
+
+### 🚀 **Goals:**  
+- To slay all the bugs in my code (short term)
+- To expand my horizon to cloud and AI (present)
+- To help and give something back to the communities (long term)
+- Also to become rich 🥳
+
+
 ---
 
 ### 🛠 **Tech Stack**
