@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm David E. Bato-bato</h1>
-<h3 align="center">A Passionate Software Developer | IoT & AI Enthusiast 🚀</h3>
+<h3 align="center">A Passionate  Cloud Engineer</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/cute-chico-typing-pc-keyboard-q1bagbkhijzpv52g.gif" width="200px" style="border-radius: 100px;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+IoT+Enthusiast+%7C+AI+Learner;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Dev+%7C+IoT+Enthusiast+%7C+Cloud++Dev;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 ## 📌 About Me  
