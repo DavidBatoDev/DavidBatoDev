@@ -96,6 +96,12 @@ I'm a **passionate software developer** with a strong interest in **IoT, AI, and
 ### 📊 **GitHub Stats**
 
 <p align="center">
+  <img
+    src="https://gh-heat.anishroy.com/api/DavidBatoDev/svg?theme=green&darkMode=true"
+    alt="GitHub Contribution Heatmap"
+  />
+</p>
+<p align="center">
   <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidBatoDev&theme=tokyo-night&hide_border=true"/>
 </p>
 <p align="center">
