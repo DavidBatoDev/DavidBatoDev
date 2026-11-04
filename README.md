@@ -97,19 +97,11 @@ I'm a **passionate software developer** with a strong interest in **IoT, AI, and
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidBatoDev&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=DavidBatoDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidBatoDev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidBatoDev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidBatoDev&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidBatoDev&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
