@@ -65,6 +65,7 @@ I'm a **passionate software developer** with a strong interest in **IoT, AI, and
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/-Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
